@@ -1,0 +1,60 @@
+body {
+
+    font-family: 'Komrile Regular';
+    line-height: 1.6;
+    color: #ffffff;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 900px;
+    padding: 20px;
+    background-color: #000000;
+    
+}
+
+p{
+    text-align: left;
+}
+
+li{
+    list-style-type: none;
+    margin-bottom: 15px;
+    padding-left: 30px;
+}
+
+a {
+    text-decoration: none;
+    text-align: right;
+    
+   
+}
+
+img { 
+    
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 20px;
+}
+
+.imagem-topico {
+    width: 800px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+/*estilo da página*/
+.conteudo-artigo{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 30px;
+    color: #000000;
+}
+
+.destaque {
+    background-color: aquamarine;
+    border-left: 8px solid azure;
+    border-radius: 5px;
+    padding: 15px;
+}
